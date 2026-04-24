@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+requests
+google-api-python-client
+firecrawl-py
+supabase==2.22.4

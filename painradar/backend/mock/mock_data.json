@@ -1,0 +1,382 @@
+{
+  "niches": {
+    "yoga": {
+      "reddit": [
+        {
+          "title": "Beginner yoga routine for stiff shoulders",
+          "body": "Office job ne body ko kharab kar diya. Daily 20 min try kiya but koi routine follow hi nahi ho pata.",
+          "upvotes": 214,
+          "comments": 36,
+          "subreddit": "r/india",
+          "pain_language": "Routine samajh nahi aata aur time nikalna mushkil hai."
+        },
+        {
+          "title": "Affordable yoga mats in India?",
+          "body": "Decathlon wala 799 ka mat phisal raha hai. Instagram wale 1999 ke bol rahe, kya worth hai?",
+          "upvotes": 128,
+          "comments": 19,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Budget me non-slip mat chahiye, but sab jagah fake reviews lagte hain."
+        },
+        {
+          "title": "How to stay consistent with morning yoga",
+          "body": "Alarm 6 baje lagta hai, but Mumbai traffic aur late night calls ki wajah se break ho jata.",
+          "upvotes": 342,
+          "comments": 58,
+          "subreddit": "r/india",
+          "pain_language": "Consistency nahi ban rahi, motivation 2 din me gir jata."
+        },
+        {
+          "title": "Knee pain after YouTube yoga",
+          "body": "YouTube follow kiya but knee me dard badh gaya. Instructor ko message kiya reply nahi.",
+          "upvotes": 91,
+          "comments": 24,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Sahi guidance nahi milti, galat posture se injury ka dar hai."
+        },
+        {
+          "title": "Local yoga class vs app subscription",
+          "body": "Pune me class 2500 per month hai. App 299 ka. Confusion hai ki kaunsa effective hoga.",
+          "upvotes": 76,
+          "comments": 14,
+          "subreddit": "r/india",
+          "pain_language": "Paise waste nahi karne, par quality bhi chahiye."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "10-minute yoga for back pain (Hindi)",
+          "views": 125000,
+          "comment_count": 842,
+          "top_comment": "3 din se follow kar raha hoon, but lower back me dard aur badh gaya. Koi alternate?"
+        },
+        {
+          "title": "Yoga for beginners: start at home in 7 days",
+          "views": 98000,
+          "comment_count": 512,
+          "top_comment": "Video simple hai but diet ka kuch nahi bataya. PCOD ke liye kya karu?"
+        },
+        {
+          "title": "15-minute morning yoga routine for office workers",
+          "views": 67000,
+          "comment_count": 389,
+          "top_comment": "Ghaziabad me space hi nahi hai, chhote room me kaise karu?"
+        }
+      ]
+    },
+    "real estate": {
+      "reddit": [
+        {
+          "title": "Is 2 BHK in Noida worth 65 lakhs?",
+          "body": "Broker bol raha ready to move, but maintenance 4500 per month. Family bol rahi Delhi side dekho.",
+          "upvotes": 188,
+          "comments": 64,
+          "subreddit": "r/india",
+          "pain_language": "Price samajh nahi aa raha, hidden charges ka dar hai."
+        },
+        {
+          "title": "RERA registered still delayed possession",
+          "body": "Bangalore me project RERA registered hai but 9 months delay. Builder reply nahi deta.",
+          "upvotes": 241,
+          "comments": 72,
+          "subreddit": "r/bangalore",
+          "pain_language": "EMI + rent dono chal rahe, financially crush ho rahe."
+        },
+        {
+          "title": "Home loan disbursal stuck",
+          "body": "Bank ne approval diya, but legal verification me file atki hai. Seller pressure daal raha.",
+          "upvotes": 97,
+          "comments": 31,
+          "subreddit": "r/india",
+          "pain_language": "Process opaque hai, koi clear timeline nahi."
+        },
+        {
+          "title": "Society maintenance inflation",
+          "body": "Hyderabad me 3BHK liya. Maintenance 3k tha, ab 6k ho gaya with extra charges.",
+          "upvotes": 112,
+          "comments": 28,
+          "subreddit": "r/hyderabad",
+          "pain_language": "Budget plan fail ho gaya, monthly costs unpredictable hain."
+        },
+        {
+          "title": "Builder asking cash component",
+          "body": "Jaipur me plot dekh raha hoon. Builder bol raha 20 percent cash do to discount milega.",
+          "upvotes": 154,
+          "comments": 47,
+          "subreddit": "r/india",
+          "pain_language": "Legal risk hai, but refuse karu to deal chala jata."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "Home buying mistakes in India (2026 update)",
+          "views": 143000,
+          "comment_count": 1021,
+          "top_comment": "Video me sab ideal bola, but ground reality me broker commission + registry charges shock dete hain."
+        },
+        {
+          "title": "Real estate investment: tier-2 cities",
+          "views": 89000,
+          "comment_count": 604,
+          "top_comment": "Indore me 2 saal se property li hai, resale nahi ho rahi. Liquidity ka kya?"
+        },
+        {
+          "title": "How to verify property documents in India",
+          "views": 52000,
+          "comment_count": 277,
+          "top_comment": "Lawyer fees 15k bol rahe, itna dena zaroori hai kya?"
+        }
+      ]
+    },
+    "edtech": {
+      "reddit": [
+        {
+          "title": "Online classes ka data khatam ho jata",
+          "body": "Tier-2 city me 4G unstable hai. Recorded lectures buffer karte rehte, weekly data pack 299 me khatam ho jata.",
+          "upvotes": 162,
+          "comments": 34,
+          "subreddit": "r/india",
+          "pain_language": "Network aur data cost ki wajah se continuity break ho jati."
+        },
+        {
+          "title": "Hindi content kam milta hai",
+          "body": "NEET prep ke liye English videos hain, but regional language (Hindi/Marathi) me clear explanations nahi milte.",
+          "upvotes": 129,
+          "comments": 27,
+          "subreddit": "r/india",
+          "pain_language": "Language barrier se concepts samajh nahi aate."
+        },
+        {
+          "title": "Refund policy unclear",
+          "body": "App ne 12k ka course becha, trial ke baad refund bola but support reply nahi kar raha.",
+          "upvotes": 118,
+          "comments": 19,
+          "subreddit": "r/india",
+          "pain_language": "Paid courses me trust issue hai, refund milta hi nahi."
+        },
+        {
+          "title": "Competitive exams ke liye guidance missing",
+          "body": "Coaching apps me tests to hain, par personalized doubt solving aur roadmap nahi milta.",
+          "upvotes": 141,
+          "comments": 22,
+          "subreddit": "r/india",
+          "pain_language": "Roadmap clear nahi, doubt solving slow hai."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "NEET preparation strategy in Hindi",
+          "views": 230000,
+          "comment_count": 940,
+          "top_comment": "App wale bolte live classes, par hamare yahan network drop hota hai. Recorded bhi buffer hota."
+        },
+        {
+          "title": "JEE online coaching review",
+          "views": 175000,
+          "comment_count": 610,
+          "top_comment": "Course INR 15,000 ka hai, but refund policy samajh nahi aayi."
+        },
+        {
+          "title": "UPSC preparation apps comparison",
+          "views": 128000,
+          "comment_count": 520,
+          "top_comment": "Hindi notes milte hain kya? English me comprehension slow hai."
+        },
+        {
+          "title": "Study timetable for Class 10 (CBSE)",
+          "views": 99000,
+          "comment_count": 410,
+          "top_comment": "Doubt solving ke liye teacher reply 2 din baad aata, tab tak question hi bhool jata."
+        }
+      ]
+    },
+    "protein supplement": {
+      "reddit": [
+        {
+          "title": "Which whey is genuine in India?",
+          "body": "Gym trainer ne bola protein lo, but kaunsa genuine hai kaise pata chalega? Itne fake products hain.",
+          "upvotes": 321,
+          "comments": 89,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Fake products ka dar hai, trust issue hai."
+        },
+        {
+          "title": "Protein causes acne?",
+          "body": "Thoda muscle gain hua but face pe pimples aa gaye. Doctor ne dairy avoid bola.",
+          "upvotes": 146,
+          "comments": 52,
+          "subreddit": "r/india",
+          "pain_language": "Side effects ka dar hai, kaunsa safe hai pata nahi."
+        },
+        {
+          "title": "Budget protein under Rs 1500",
+          "body": "College student hoon, pocket money limited. Rs 3k ka whey possible nahi.",
+          "upvotes": 203,
+          "comments": 61,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Affordable options nahi milte, marketing confusing hai."
+        },
+        {
+          "title": "Digestion issues with whey",
+          "body": "Whey lene ke baad bloating hota hai. Lactose free brands mehngi hain.",
+          "upvotes": 118,
+          "comments": 33,
+          "subreddit": "r/india",
+          "pain_language": "Gut issues ki wajah se consistency break ho jati."
+        },
+        {
+          "title": "How to verify lab tests?",
+          "body": "Brands bolte hain lab tested, but reports kaise check karu? Website pe kuch clear nahi.",
+          "upvotes": 94,
+          "comments": 26,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Transparency nahi milti, trust build nahi hota."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "Best whey proteins in India (lab tested)",
+          "views": 210000,
+          "comment_count": 1340,
+          "top_comment": "Aapka list me brand X hai but Amazon reviews me fake batch ki complaint hai. Kya kare?"
+        },
+        {
+          "title": "Protein for beginners: timing and dosage",
+          "views": 97000,
+          "comment_count": 615,
+          "top_comment": "Trainer bolta hai 2 scoops lo, par monthly cost 4k ho jata. Budget ka kya?"
+        },
+        {
+          "title": "Is plant protein worth it in India?",
+          "views": 56000,
+          "comment_count": 298,
+          "top_comment": "Plant protein taste bahut kharab hai, Indian palate ke liye koi option?"
+        }
+      ]
+    },
+    "personal finance": {
+      "reddit": [
+        {
+          "title": "SIP kaunsa app se karu? Zerodha vs Groww vs Coin",
+          "body": "Salary 35k hai. Tier-2 city se hoon. App me KYC bar bar fail hota, UPI mandate set nahi ho raha.",
+          "upvotes": 198,
+          "comments": 42,
+          "subreddit": "r/IndiaInvestments",
+          "pain_language": "SIP start karna chahta hoon par KYC aur UPI mandate ka headache bahut hai."
+        },
+        {
+          "title": "Emergency fund vs SIP confusion",
+          "body": "Parents bolte hain FD hi safe hai. Online sab bol rahe SIP karo. Mahine me 5k bachta hai, kis jagah rakhu?",
+          "upvotes": 143,
+          "comments": 33,
+          "subreddit": "r/india",
+          "pain_language": "Ghar wale FD bolte, online SIP bolta, decision clear nahi ho raha."
+        },
+        {
+          "title": "Credit card charges samajh nahi aa rahe",
+          "body": "HDFC ka card liya, annual fee waive ka logic confusing hai. Statement me hidden charges dikhe.",
+          "upvotes": 121,
+          "comments": 29,
+          "subreddit": "r/IndiaInvestments",
+          "pain_language": "Fees aur charges ka transparency nahi hai, bill samajhna mushkil hai."
+        },
+        {
+          "title": "Tax saving ka proper plan nahi ban pa raha",
+          "body": "80C me PPF/ELSS/LIC me kya best hai? Office me HR clear jawab nahi deta.",
+          "upvotes": 167,
+          "comments": 38,
+          "subreddit": "r/india",
+          "pain_language": "Tax saving options bahut hain, simple comparison nahi milta."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "Mutual fund SIP kaise start kare (Hindi)",
+          "views": 310000,
+          "comment_count": 1560,
+          "top_comment": "UPI mandate approve hi nahi ho raha, bank bolta app ka issue hai. Ab SIP kaise chalega?"
+        },
+        {
+          "title": "Zerodha Coin tutorial for beginners",
+          "views": 145000,
+          "comment_count": 740,
+          "top_comment": "Regional language me koi guide hai? English me samajh nahi aata, especially tax part."
+        },
+        {
+          "title": "How much emergency fund in India?",
+          "views": 98000,
+          "comment_count": 520,
+          "top_comment": "Tier-2 city me medical cost alag hai, metro wala rule apply nahi hota."
+        },
+        {
+          "title": "Credit card rewards and hidden charges",
+          "views": 87000,
+          "comment_count": 410,
+          "top_comment": "INR me reward value ka real breakdown nahi milta, lagta hai sab marketing hai."
+        }
+      ]
+    },
+    "fitness": {
+      "reddit": [
+        {
+          "title": "Gym membership in Bangalore too expensive",
+          "body": "Nearby gym 2500/month bol raha. Tier-2 city me 800 me milta. Metro pricing crazy hai.",
+          "upvotes": 176,
+          "comments": 27,
+          "subreddit": "r/india",
+          "pain_language": "Metro gyms ke rates bahut high hain, value for money doubt hai."
+        },
+        {
+          "title": "Trainer pushing supplements",
+          "body": "Local gym trainer bol raha whey + preworkout lena hi padega. Monthly cost INR 4000 ho jayega.",
+          "upvotes": 204,
+          "comments": 41,
+          "subreddit": "r/fitness_india",
+          "pain_language": "Trainer pressure karta hai, budget me fitness maintain karna mushkil hai."
+        },
+        {
+          "title": "Workout plan in Hindi?",
+          "body": "YouTube pe English terms hi milte. Regional language me proper plan nahi milta.",
+          "upvotes": 132,
+          "comments": 22,
+          "subreddit": "r/india",
+          "pain_language": "Language barrier ki wajah se sahi form samajh nahi aata."
+        },
+        {
+          "title": "UPI payments failing at gym",
+          "body": "Gym owner cash mangta hai, UPI ya card accept nahi karta. Online app subscription bhi nahi.",
+          "upvotes": 98,
+          "comments": 18,
+          "subreddit": "r/india",
+          "pain_language": "Cash only culture ki wajah se membership manage karna awkward hai."
+        }
+      ],
+      "youtube": [
+        {
+          "title": "Home workout for beginners (Hindi)",
+          "views": 420000,
+          "comment_count": 1920,
+          "top_comment": "Chhote room me space hi nahi hai, kya koi jugaad workout hai?"
+        },
+        {
+          "title": "Fat loss routine without gym",
+          "views": 210000,
+          "comment_count": 980,
+          "top_comment": "Diet plan ke ingredients sab imported lagte, INR budget me nahi aata."
+        },
+        {
+          "title": "Indian diet for muscle gain",
+          "views": 175000,
+          "comment_count": 760,
+          "top_comment": "Hostel me rehke protein kaise manage kare? Mess ka khana hi milta."
+        },
+        {
+          "title": "Beginner gym mistakes in India",
+          "views": 99000,
+          "comment_count": 430,
+          "top_comment": "Tier-2 city ke gym me equipment hi purana hai, form sahi kaise karu?"
+        }
+      ]
+    }
+  }
+}

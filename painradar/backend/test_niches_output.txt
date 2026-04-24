@@ -1,0 +1,40 @@
+﻿========================================
+NICHE: yoga
+PAIN POINTS: 3
+TOP PAIN: Yoga enthusiasts in urban India like Mumbai/Pune spend INR 2,500-3,000/month on classes but 40 percent face inconsistency due to lack of motivation and accountability
+BEST OPPORTUNITY: YogaPal - B2B SaaS sold to yoga studios as a student engagement tool, INR 499/studio/month, targeting 200 studios in Year 1, with a TAM of INR 1,200 crores - 10M yoga enthusiasts in urban India x 20 percent addressable x INR 600 avg spend
+RESPONSE TIME: 3187 ms
+STATUS: PASS
+========================================
+NICHE: real estate
+PAIN POINTS: 3
+TOP PAIN: Homebuyers in Noida, Bangalore, Hyderabad, and Jaipur face uncertainty over property prices with hidden charges, costing INR 65 lakhs to INR 1 crore, affecting 70 percent of buyers
+BEST OPPORTUNITY: PropertyGenie - a real estate transparency platform, paid by buyers, INR 5,000/report, targeting 1,000 customers in Year 1, with a TAM of INR 1,050 crores - 7 million homebuyers x 15 percent addressable x INR 1,000 avg spend
+RESPONSE TIME: 2681 ms
+STATUS: PASS
+========================================
+NICHE: edtech
+PAIN POINTS: 4
+TOP PAIN: Students in Tier-2 cities like Nagpur/Indore face 4G instability, causing INR 299 weekly data packs to expire quickly, affecting 60% of online learners
+BEST OPPORTUNITY: EduNet - offline-enabled learning platform, paid by students, INR 99/month, targeting 100,000 students in Year 1, with a TAM of INR 1,200 crores - 12M students x 10 percent addressable x INR 1,000 avg spend
+RESPONSE TIME: 3363 ms
+STATUS: PASS
+========================================
+NICHE: personal finance
+PAIN POINTS: 4
+TOP PAIN: Investors in Tier-2 cities like Nagpur/Indore face INR 1,000-5,000/month confusion due to 30 percent unclear KYC and UPI mandate processes
+BEST OPPORTUNITY: SIPGuide India - B2C mobile app for simplified SIP investments, paid by individual investors, INR 99/month, targeting 10,000 users in Year 1, with a TAM of INR 1,500 crores - 30M potential investors x 5 percent addressable x INR 1,000 avg spend
+RESPONSE TIME: 2857 ms
+STATUS: PASS
+========================================
+NICHE: fitness
+PAIN POINTS: 4
+TOP PAIN: Gym memberships in Bangalore cost INR 2,500/month but 60 percent of members feel it's too expensive compared to Tier-2 cities
+BEST OPPORTUNITY: FitPass India - B2B SaaS sold to corporates as employee wellness benefit, INR 199/employee/month, targeting 500 companies in Year 1, with a TAM of INR 1,200 crores - 20M gym-goers in India x 10 percent addressable x INR 600 avg spend
+RESPONSE TIME: 2627 ms
+STATUS: PASS
+========================================
+NICHES TESTED: 5
+PASSED: 5
+FAILED: 0
+AVG RESPONSE TIME: 2943 ms
